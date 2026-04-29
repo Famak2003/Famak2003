@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![My Stats](https://github-readme-stats.vercel.app/api?username=Famak2003&show_icons=true&theme=radical)
 
 <!--
 **Famak2003/Famak2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
