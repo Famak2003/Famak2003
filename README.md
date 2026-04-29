@@ -2,6 +2,10 @@
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=Famak2003&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Famak2003&layout=compact&theme=vision-friendly-dark)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=First+Line;Second+Line&center=true&width=435)](https://git.io/typing-svg)
+
 <!--
 **Famak2003/Famak2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
