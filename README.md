@@ -35,7 +35,7 @@
 ---
 
 ### 📫 Connect with me
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+- 💼 [LinkedIn]([https://linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/oluwapelumi-famakinde-a138ab239/))
 - 📧 [famakindeoluwapelumi@gmail.com](mailto:famakindeoluwapelumi@gmail.com)
 - 💬 Ask me about **React Native native modules, accessibility audits, or Mapbox integrations.**
 
